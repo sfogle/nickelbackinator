@@ -14,6 +14,3 @@ def home():
 # def random():
 #     nickelback = redis.srandmember("nickelbacks", 1)
 #     return nickelback.as_json()
-
-if __name__ == '__main__':
-    app.run()
